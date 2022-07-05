@@ -35,3 +35,14 @@ section {
     font-weight: 500;
     border-radius: 30%;
 }
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: aqua;
+
+    font-weight: 400;
+
+}
