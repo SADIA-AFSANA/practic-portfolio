@@ -46,3 +46,53 @@ section {
     font-weight: 400;
 
 }
+
+.color {
+    background-color: bisque;
+}
+
+.recipie {
+    text-align: center;
+    padding-top: 10;
+    padding-left: 25%;
+    padding-right: 25%;
+
+}
+
+.food {
+    text-align: center;
+}
+
+.box {
+    height: 50%;
+    box-shadow: 7px solid gray;
+}
+
+.pic {
+    padding-top: 5px;
+    margin-top: 20px;
+    padding-top: 5px;
+
+}
+
+.wi {
+    width: 100px;
+    box-shadow: gray;
+
+}
+
+.you {
+    text-align: center;
+    padding-left: 50%;
+}
+
+.ins {
+    text-align: center;
+    padding-left: 400%;
+}
+
+.li {
+    text-align: center;
+    padding-left: 450%;
+    padding-right: 30%;
+}
